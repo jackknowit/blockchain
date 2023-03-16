@@ -2,9 +2,9 @@
 
 python3 -m venv venv
 
-Linux:
+Linux:\
   source venv/bin/activate  
-Windows:
+Windows:\
   .\venv\Scripts\activate
 
 pip3 install "fastapi[all]" ipython
